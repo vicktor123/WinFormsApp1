@@ -11,6 +11,7 @@ namespace WinFormsApp1
         private void Form1_FormClosing(object? sender, FormClosingEventArgs e)
         {
             MessageBox.Show("test");
+            MessageBox.Show("test1234");
         }
     }
 }
